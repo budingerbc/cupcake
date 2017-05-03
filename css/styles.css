@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+p {
+  text-align: center;
+}
+
+h3.best {
+  color: blue;
+  font-weight: bold;
+  font-style: oblique;
+  font-size: 30;
+}
+
+p.best {
+  color: blue;
+  font-weight: bold;
+  font-size: 18;
+}
